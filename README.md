@@ -1,0 +1,2 @@
+# aws_lambda_slack_notifier
+slackのslash commandからAWS lambda使って色々してみる
